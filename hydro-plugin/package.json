@@ -1,0 +1,10 @@
+{
+  "name": "@algospark/hydro-bridge",
+  "version": "0.3.1",
+  "description": "AlgoSpark submission and result bridge for Hydro OJ",
+  "main": "index.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "hydrooj": ">=5.0.0-beta.17 <6"
+  }
+}

@@ -1,0 +1,8 @@
+time: 1000ms
+memory: 256m
+subtasks:
+  - score: 100
+    type: min
+    cases:
+      - input: 1.in
+        output: 1.out

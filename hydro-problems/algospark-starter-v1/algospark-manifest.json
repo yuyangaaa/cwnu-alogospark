@@ -1,0 +1,156 @@
+[
+  {
+    "pid": "AS1001",
+    "title": "协会签到",
+    "tags": [
+      "入门",
+      "输出"
+    ],
+    "points": 5,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1002",
+    "title": "两间教室",
+    "tags": [
+      "入门",
+      "输入输出"
+    ],
+    "points": 10,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1003",
+    "title": "训练手册装箱",
+    "tags": [
+      "入门",
+      "乘法"
+    ],
+    "points": 10,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1004",
+    "title": "队名字母",
+    "tags": [
+      "入门",
+      "字符"
+    ],
+    "points": 10,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1005",
+    "title": "编号镜像",
+    "tags": [
+      "入门",
+      "字符串"
+    ],
+    "points": 10,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1006",
+    "title": "饮料均分",
+    "tags": [
+      "入门",
+      "浮点数"
+    ],
+    "points": 15,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1007",
+    "title": "校园三角花坛",
+    "tags": [
+      "入门",
+      "数学公式"
+    ],
+    "points": 15,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1008",
+    "title": "训练计时",
+    "tags": [
+      "入门",
+      "时间计算"
+    ],
+    "points": 15,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1009",
+    "title": "综合训练分",
+    "tags": [
+      "入门",
+      "表达式"
+    ],
+    "points": 15,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1010",
+    "title": "训练号码性质",
+    "tags": [
+      "入门",
+      "逻辑运算"
+    ],
+    "points": 20,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1011",
+    "title": "活动年份",
+    "tags": [
+      "入门",
+      "条件判断"
+    ],
+    "points": 20,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1012",
+    "title": "打印方案",
+    "tags": [
+      "入门",
+      "方案比较"
+    ],
+    "points": 20,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1013",
+    "title": "月度训练天数",
+    "tags": [
+      "入门",
+      "多分支"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "active": true
+  },
+  {
+    "pid": "AS1014",
+    "title": "三人成绩排序",
+    "tags": [
+      "入门",
+      "排序"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "active": true
+  }
+]

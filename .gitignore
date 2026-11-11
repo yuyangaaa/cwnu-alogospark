@@ -1,0 +1,42 @@
+# Dependencies and generated artifacts
+node_modules/
+dist/
+coverage/
+tools/bin/
+*.exe
+
+# Runtime data and local backups
+data/
+backups/
+logs/
+test/runtime-*/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+npm-debug.log*
+
+# Local configuration and credentials
+.env*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+.ssh/
+给师兄-插件配置.txt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual-machine runtime files
+*.vmdk
+*.vmem
+*.vmss
+*.nvram
+*.lck/

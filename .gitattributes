@@ -1,0 +1,26 @@
+* text=auto
+
+# Keep deployable and web source consistent across Windows and Linux.
+*.css text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.ts text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.conf text eol=lf
+*.service text eol=lf
+*.timer text eol=lf
+
+# PowerShell scripts are primarily used from Windows.
+*.ps1 text eol=crlf
+
+# Binary assets.
+*.exe binary
+*.png binary
+*.webp binary
+*.zip binary

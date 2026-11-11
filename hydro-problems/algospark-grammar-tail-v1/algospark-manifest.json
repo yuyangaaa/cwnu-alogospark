@@ -1,0 +1,132 @@
+[
+  {
+    "pid": "AS1015",
+    "title": "训练积分总计",
+    "tags": [
+      "入门",
+      "循环",
+      "累加"
+    ],
+    "points": 20,
+    "track": "grammar",
+    "topic": "loop",
+    "active": true
+  },
+  {
+    "pid": "AS1016",
+    "title": "星阵演练",
+    "tags": [
+      "入门",
+      "循环",
+      "嵌套循环"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "loop",
+    "active": true
+  },
+  {
+    "pid": "AS1017",
+    "title": "最高分统计",
+    "tags": [
+      "入门",
+      "数组",
+      "统计"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "array-string",
+    "active": true
+  },
+  {
+    "pid": "AS1018",
+    "title": "每行训练量",
+    "tags": [
+      "入门",
+      "二维数组",
+      "循环"
+    ],
+    "points": 30,
+    "track": "grammar",
+    "topic": "array-string",
+    "active": true
+  },
+  {
+    "pid": "AS1019",
+    "title": "回文口令",
+    "tags": [
+      "入门",
+      "字符串",
+      "回文"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "array-string",
+    "active": true
+  },
+  {
+    "pid": "AS1020",
+    "title": "目标字符计数",
+    "tags": [
+      "入门",
+      "字符串",
+      "遍历"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "array-string",
+    "active": true
+  },
+  {
+    "pid": "AS1021",
+    "title": "每组较大值之和",
+    "tags": [
+      "入门",
+      "函数",
+      "循环"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "function-struct",
+    "active": true
+  },
+  {
+    "pid": "AS1022",
+    "title": "最佳训练队员",
+    "tags": [
+      "入门",
+      "结构体",
+      "统计"
+    ],
+    "points": 35,
+    "track": "grammar",
+    "topic": "function-struct",
+    "active": true
+  },
+  {
+    "pid": "AS1023",
+    "title": "训练序列排序",
+    "tags": [
+      "入门",
+      "vector",
+      "sort"
+    ],
+    "points": 25,
+    "track": "grammar",
+    "topic": "function-struct",
+    "active": true
+  },
+  {
+    "pid": "AS1024",
+    "title": "训练平均分",
+    "tags": [
+      "入门",
+      "浮点数",
+      "输出格式"
+    ],
+    "points": 20,
+    "track": "grammar",
+    "topic": "basic",
+    "active": true
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "algospark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AlgoSpark 算法竞赛学习平台",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "dev": "node --env-file-if-exists=.env --watch server.js",
+    "test": "node --test",
+    "test:association": "node --env-file-if-exists=.env tools/association-auth-check.mjs"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "exceljs": "4.4.0",
+    "katex": "0.19.1",
+    "nodemailer": "9.0.5"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "2024-icpc-nanjing": {
+    "englishCopies": null,
+    "chineseCopies": 1,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "正式赛独立参赛记录",
+    "sourceUrl": "https://www.luogu.com/article/0ij7grw9",
+    "note": "正式赛记录明确每队有 1 份中文题面。另一篇记录给出了热身赛的 3 英 1 中，正式赛英文份数仍待核实。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "另一队参赛记录",
+    "relatedSourceUrl": "https://macesuted.moe/article/2024-icpc-regional-nanjing"
+  },
+  "2024-icpc-kunming": {
+    "englishCopies": 3,
+    "chineseCopies": 1,
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.cnblogs.com/mingzi123/p/18588204",
+    "note": "参赛者在正式赛当天的记录中明确记载发放 3 份英文、1 份中文；按现场记录收录，尚未取得官方手册复核。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2026-icpc-shenzhen-invitational": {
+    "englishCopies": 1,
+    "chineseCopies": 2,
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/4elwlmjc",
+    "note": "参赛者记载正式赛发放 2 份中文、1 份英文，并称现场询问后被告知不能额外打印题目；按该队现场经历收录。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2024-icpc-hangzhou": {
+    "englishCopies": null,
+    "chineseCopies": 0,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/v6fgc9wr",
+    "note": "参赛者在正式赛过程中特别说明没有中文题面，需要承担翻译工作。英文题册的每队份数仍待核实。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2025-icpc-chengdu": {
+    "englishCopies": null,
+    "chineseCopies": 0,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/grtbju0t",
+    "note": "参赛者在正式赛开场的记录中说明拿到的题面全是英文；按该队现场经历收录，英文题册份数未记载。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2025-icpc-wuhan-invitational": {
+    "englishCopies": null,
+    "chineseCopies": 1,
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com/article/aenoqh6b",
+    "note": "参赛者明确记载仅有 1 份中文题面并将其分配给一名队友。该记录未明确英文题册数量，不推定为 3 份。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2024-icpc-wuhan-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.cnblogs.com/cjjsb/p/18172651",
+    "note": "参赛者记载正式赛开场后拆分中文题面供队员分头读题，能确认现场有中文纸质题面；中英文每队份数未记载。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2024-ccpc-harbin": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/ln617e4n",
+    "note": "参赛者在正式赛复盘中明确描述阅读中文题面。能确认现场提供中文，尚未查到中英文纸质题册每队份数。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2025-icpc-shenyang": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文",
+      "中文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com/article/0nh3q4pe",
+    "note": "参赛者记载正式赛时一名队员读中文、两名队员读英文，能确认现场中英文均可用；不能由读题人数推出发放份数。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2024-ccpc-jinan": {
+    "englishCopies": 1,
+    "chineseCopies": 3,
+    "sourceKind": "organizer-report",
+    "sourceLabel": "命题人员现场记录",
+    "sourceUrl": "https://www.cnblogs.com/imakf/p/18521489/ccpc-jinan-2024",
+    "note": "命题人员在监督正式赛题面打印的记录中，明确写明每队 3 份中文、1 份英文。",
+    "verifiedAt": "2026-11-01"
+  },
+  "2024-icpc-chengdu": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://jishuzhan.net/article/1853543518023192578",
+    "note": "参赛记录明确写到正式赛阅读和翻译英文题面。重庆工程学院的参赛报道也确认使用英文。纸质份数和是否另供中文仍待核实。",
+    "verifiedAt": "2026-11-04",
+    "relatedSourceLabel": "参赛高校报道",
+    "relatedSourceUrl": "https://ts.cqie.edu.cn/html/59/content/24/10/62594.shtml"
+  },
+  "2025-icpc-nanjing": {
+    "englishCopies": 3,
+    "chineseCopies": 1,
+    "confirmedLanguages": [
+      "英文",
+      "中文"
+    ],
+    "sourceKind": "official-manual",
+    "sourceLabel": "官方参赛手册 · PDF 第 12 页",
+    "sourceUrl": "https://docs.qq.com/pdf/DUE9oVWhRV0ZjUGxR",
+    "note": "官方参赛手册 PDF 第 12 页（印刷页码 9）竞赛规则第 3 条规定每队 3 份英文、1 份中文；中英文描述不一致时以英文为准。此处记录手册规定，正式赛参赛记录另确认纸质中文题面。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "正式赛参赛记录",
+    "relatedSourceUrl": "https://macesuted.moe/article/2025-icpc-regional-nanjing"
+  },
+  "2024-ccpc-shandong": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文",
+      "中文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "命题组中英题册",
+    "sourceUrl": "https://sua.ac/wiki/2024-ccpc-invitational-shandong/",
+    "note": "命题组保存了中英文正式赛题册，两版均有纸质缺页处理说明。现场实发语种和每队份数仍待核实。",
+    "verifiedAt": "2026-11-04"
+  },
+  "2024-icpc-kunming-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文",
+      "中文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "命题组中英题册",
+    "sourceUrl": "https://sua.ac/wiki/2024-icpc-invitational-kunming/",
+    "note": "命题组保存了这场 5 月邀请赛的中英文正式题册。现场实发语种和每队份数仍待核实。",
+    "verifiedAt": "2026-11-04"
+  },
+  "2024-ccpc-changchun-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "正式赛题册",
+    "sourceUrl": "https://codeforces.com/gym/105170/attachments/download/25590/statements.pdf",
+    "note": "已核对正式赛英文题册。参赛高校报道也以英文描述介绍赛事，但没有明确本场每队发放数量或是否另供中文；现场发放细节仍待核实。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "参赛高校赛后介绍",
+    "relatedSourceUrl": "https://jwc.neepu.edu.cn/info/1055/4658.htm"
+  },
+  "2024-ccpc-northeast-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "正式赛题册",
+    "sourceUrl": "https://codeforces.com/gym/105173/attachments/download/25613/statement.pdf",
+    "note": "题册封面有英文赛事名，正式赛题目正文为中文。现场实发语种和每队份数仍待核实。",
+    "verifiedAt": "2026-11-04"
+  },
+  "2025-ccpc-northeastern": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "organizer-report",
+    "sourceLabel": "承办方赛后报道",
+    "sourceUrl": "https://www.cust.edu.cn/lgxw2026/a458b7fdfa894461a2597310aa5148dc.htm",
+    "note": "承办方在 2025 年 5 月 27 日的赛后报道中明确，本场每队在 5 小时内完成 12 道中文编程题目。现场纸质份数和是否另供英文没有说明。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "正式赛参赛记录",
+    "relatedSourceUrl": "https://www.cnblogs.com/swyblog/p/18896009"
+  },
+  "2026-ccpc-fujian-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "online-contest",
+    "sourceLabel": "参赛者线上赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/tmpncdfc",
+    "note": "正式赛在线上举行，中文题面有正式赛存档，无统一现场纸质发放。",
+    "verifiedAt": "2026-11-04",
+    "relatedSourceLabel": "正式赛中文题面",
+    "relatedSourceUrl": "https://codeforces.com/gym/106565/attachments/download/37939/official.pdf"
+  },
+  "2026-ccpc-nanchang-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "正式赛题面镜像",
+    "sourceUrl": "https://codeforces.com/gym/106554/attachments/download/37873/statements.pdf",
+    "note": "参赛记录确认开赛时发了题面，存档为中文。现场实发语种和每队份数仍待核实。",
+    "verifiedAt": "2026-11-04",
+    "relatedSourceLabel": "参赛者正式赛记录",
+    "relatedSourceUrl": "https://www.luogu.com.cn/article/ecla4qix"
+  },
+  "2025-icpc-nanchang-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.cnblogs.com/cjcf/p/18883638",
+    "note": "正式赛记录明确提到读英文题。官方邀请函也规定英文试题，每队纸质份数及是否另供中文仍待核实。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "官方邀请函",
+    "relatedSourceUrl": "https://icpc.pku.edu.cn/tzgg/165034.htm"
+  },
+  "2024-icpc-xian-invitational": {
+    "englishCopies": 3,
+    "chineseCopies": 0,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.cnblogs.com/cjjsb/p/18206681",
+    "note": "记录在热身赛结束、重新进场后的正式赛部分明确写到三份英文题面和未提供中文。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "官方邀请函",
+    "relatedSourceUrl": "https://icpc.pku.edu.cn/docs/20240318122438668015.pdf"
+  },
+  "2025-icpc-xian": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛高校正式赛报道",
+    "sourceUrl": "https://xkjs.xhu.edu.cn/89/4b/c6095a231755/page.htm",
+    "note": "参赛高校报道确认本队正式赛解答英文题目。每队英文份数及是否另供中文仍待核实。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2025-icpc-wuhan": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/zyhngfkc",
+    "note": "记录在 2025 年 11 月 2 日正赛段明确提到拿到英文题面。每队中英文发放份数及中文是否实发仍待核实。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2025-icpc-shanghai": {
+    "englishCopies": null,
+    "chineseCopies": 0,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "participant-report",
+    "sourceLabel": "参赛者正式赛记录",
+    "sourceUrl": "https://www.luogu.com.cn/article/4lk06j4i",
+    "note": "参赛者在正式赛段落明确说明没有中文题面，命题组公开英文题册可交叉核对。英文每队份数未记载；技术人员另记载约 1100 份装入 360 个纸袋，不能据总印量推定每队数量。下载 PDF 含赛中更正。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "命题组公开题册",
+    "relatedSourceUrl": "https://www.gitlink.org.cn/thusaa/ICPC2025shanghai"
+  },
+  "2025-ccpc-fujian-invitational": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "中文"
+    ],
+    "sourceKind": "online-contest",
+    "sourceLabel": "改为线上赛的参赛记录",
+    "sourceUrl": "https://www.cnblogs.com/cjtcalc/p/18941096",
+    "note": "参赛者完整记录了原计划在厦门大学举办、延期后改成线上赛的经过；另一队独立记载通过 PTA 参赛。中文题面有正式赛原题册，统一现场纸质份数不适用；未取得英文是否另提供的证据。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "另一队 PTA 参赛记录",
+    "relatedSourceUrl": "https://www.cnblogs.com/lmmsblog/p/18960356"
+  },
+  "2024-ccpc-zhengzhou": {
+    "englishCopies": null,
+    "chineseCopies": null,
+    "confirmedLanguages": [
+      "英文"
+    ],
+    "sourceKind": "contest-booklet",
+    "sourceLabel": "UCup 重赛英文题册",
+    "sourceUrl": "https://contest.ucup.ac/download.php?id=1873&r=0&type=attachments",
+    "note": "现有英文 PDF 封面为 2024 年 12 月 21–22 日的 UCup 重赛版，基于 11 月 17 日的郑州区域赛。另有标注 NJU 来源的中文网页题目存档；两种公开版本都不能据此确定原赛现场发放语种或纸质份数。",
+    "verifiedAt": "2026-11-06",
+    "relatedSourceLabel": "中文题目存档示例 · NJU",
+    "relatedSourceUrl": "https://cpc.csgrandeur.cn/csgoj/problemset/problem?pid=1375"
+  }
+}

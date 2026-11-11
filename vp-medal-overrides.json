@@ -1,0 +1,1044 @@
+{
+  "2024-icpc-wuhan-invitational": {
+    "boardUrl": "https://board.xcpcio.com/icpc/49th/wuhan-invitational",
+    "date": "2024-05-02",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 49080,
+        "penaltyMinutes": 818,
+        "rank": 22,
+        "lastAcceptedMinute": 283,
+        "teamId": "204"
+      },
+      "silver": {
+        "solved": 4,
+        "penaltySeconds": 22020,
+        "penaltyMinutes": 367,
+        "rank": 66,
+        "lastAcceptedMinute": 174,
+        "teamId": "55"
+      },
+      "bronze": {
+        "solved": 3,
+        "penaltySeconds": 13860,
+        "penaltyMinutes": 231,
+        "rank": 132,
+        "lastAcceptedMinute": 156,
+        "teamId": "86"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://board.xcpcio.com/icpc/49th/wuhan-invitational",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        22,
+        44,
+        66
+      ],
+      "awardUrl": "https://www.bilibili.com/video/BV1qr421E7gv/"
+    },
+    "medalNote": "正式组金、银、铜分别取 22、44、66 队，按正式赛终榜顺位计算。获奖队数来自承办方报道的存档，颁奖录像可对照。"
+  },
+  "2024-ccpc-zhengzhou-invitational": {
+    "boardUrl": "https://rl.algoux.cn/ranklist/haccpc6th",
+    "date": "2024-05-12",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 9,
+        "penaltySeconds": 73620,
+        "penaltyMinutes": 1227,
+        "rank": 43,
+        "lastAcceptedMinute": 247,
+        "teamId": "H23N"
+      },
+      "silver": {
+        "solved": 7,
+        "penaltySeconds": 48360,
+        "penaltyMinutes": 806,
+        "rank": 129,
+        "lastAcceptedMinute": 254,
+        "teamId": "B27N"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 25440,
+        "penaltyMinutes": 424,
+        "rank": 258,
+        "lastAcceptedMinute": 132,
+        "teamId": "B26Y"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/haccpc6th",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        43,
+        86,
+        129
+      ],
+      "awardUrl": "https://rjgcxy.cuit.edu.cn/info/1038/3543.htm"
+    },
+    "medalNote": "全国奖与河南省赛同场，按公开报道的全国获奖队数计算。"
+  },
+  "2024-ccpc-changchun-invitational": {
+    "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2024invitational-changchun",
+    "date": "2024-05-18",
+    "problemCount": 12,
+    "medals": {
+      "gold": {
+        "solved": 4,
+        "penaltySeconds": 26940,
+        "penaltyMinutes": 449,
+        "rank": 18,
+        "lastAcceptedMinute": 193,
+        "teamId": "182165808"
+      },
+      "silver": {
+        "solved": 3,
+        "penaltySeconds": 21480,
+        "penaltyMinutes": 358,
+        "rank": 54,
+        "lastAcceptedMinute": 130,
+        "teamId": "182165757"
+      },
+      "bronze": {
+        "solved": 1,
+        "penaltySeconds": 480,
+        "penaltyMinutes": 8,
+        "rank": 109,
+        "lastAcceptedMinute": 8,
+        "teamId": "182165818"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2024invitational-changchun",
+      "group": "全国邀请赛",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        18,
+        36,
+        55
+      ]
+    },
+    "medalNote": "按终榜存档的全国邀请赛分组，金 18、银 36、铜 55。"
+  },
+  "2024-ccpc-northeast-invitational": {
+    "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2024invitational-northeast",
+    "date": "2024-05-19",
+    "problemCount": 13,
+    "medalNote": "已找到正式赛终榜和承办方报道。终榜存档缺少奖牌标记，报道列出了本校获奖队伍，整场奖牌分界仍待核实。",
+    "medalSource": {
+      "awardUrl": "https://www.nenu.edu.cn/info/4881/267891.htm"
+    }
+  },
+  "2024-ccpc-shandong": {
+    "boardUrl": "https://sua.ac/wiki/2024-ccpc-invitational-shandong/board/",
+    "date": "2024-05-26",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 34080,
+        "penaltyMinutes": 568,
+        "rank": 46,
+        "lastAcceptedMinute": 170,
+        "teamId": "2001202405260459"
+      },
+      "silver": {
+        "solved": 7,
+        "penaltySeconds": 90720,
+        "penaltyMinutes": 1512,
+        "rank": 137,
+        "lastAcceptedMinute": 281,
+        "teamId": "2001202405260044"
+      },
+      "bronze": {
+        "solved": 5,
+        "penaltySeconds": 45480,
+        "penaltyMinutes": 758,
+        "rank": 273,
+        "lastAcceptedMinute": 258,
+        "teamId": "2001202405260345"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2024invitational-jinan",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        46,
+        91,
+        136
+      ],
+      "awardUrl": "https://www.view.sdu.edu.cn/info/1023/191781.htm"
+    },
+    "medalNote": "按山东大学公布的全国邀请赛奖额计算，金 46、银 91、铜 136。"
+  },
+  "2025-ccpc-northeastern": {
+    "boardUrl": "https://board.xcpcio.com/ccpc/11th/northeastern",
+    "date": "2025-05-25",
+    "problemCount": 12,
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 61800,
+        "penaltyMinutes": 1030,
+        "rank": 39,
+        "lastAcceptedMinute": 295,
+        "teamId": "NE-team-Q19"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 23640,
+        "penaltyMinutes": 394,
+        "rank": 116,
+        "lastAcceptedMinute": 113,
+        "teamId": "NE-team-F10"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 61440,
+        "penaltyMinutes": 1024,
+        "rank": 231,
+        "lastAcceptedMinute": 282,
+        "teamId": "NE-team-G19"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2025invitational-northeast",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        39,
+        77,
+        115
+      ],
+      "awardUrl": "https://cs.cust.edu.cn/xykx/994e257d94cb44388253ed9acb652482.htm"
+    },
+    "medalNote": "采用承办方公布的全国邀请赛奖额，排除打星队。"
+  },
+  "2025-ccpc-fujian-invitational": {
+    "boardUrl": "https://pintia.cn/rankings/1934898936967766016",
+    "date": "2025-06-21",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 37260,
+        "penaltyMinutes": 621,
+        "rank": 29,
+        "lastAcceptedMinute": 161,
+        "teamId": "259"
+      },
+      "silver": {
+        "solved": 6,
+        "penaltySeconds": 62820,
+        "penaltyMinutes": 1047,
+        "rank": 86,
+        "lastAcceptedMinute": 267,
+        "teamId": "19"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 38580,
+        "penaltyMinutes": 643,
+        "rank": 171,
+        "lastAcceptedMinute": 229,
+        "teamId": "282"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2025invitational-fujian",
+      "group": "全国邀请赛",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        29,
+        57,
+        85
+      ]
+    },
+    "medalNote": "按终榜存档的全国邀请赛奖项分界。"
+  },
+  "2026-ccpc-fujian-invitational": {
+    "boardUrl": "https://pintia.cn/rankings/2056635464310784000",
+    "date": "2026-05-30",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 30600,
+        "penaltyMinutes": 510,
+        "rank": 35,
+        "lastAcceptedMinute": 177,
+        "teamId": "111"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 20940,
+        "penaltyMinutes": 349,
+        "rank": 101,
+        "lastAcceptedMinute": 146,
+        "teamId": "113"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 17040,
+        "penaltyMinutes": 284,
+        "rank": 203,
+        "lastAcceptedMinute": 121,
+        "teamId": "162"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2026invitational-fuzhou",
+      "group": "全国邀请赛",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        35,
+        66,
+        102
+      ]
+    },
+    "medalNote": "按终榜存档的全国邀请赛分组，金 35、银 66、铜 102。"
+  },
+  "2026-ccpc-qinhuangdao-invitational": {
+    "boardUrl": "https://cpc.csgrandeur.cn/outrank/rank?outrank_uuid=88998553-ce66-46ec-a062-1beb357d774c",
+    "date": "2026-05-24",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 32880,
+        "penaltyMinutes": 548,
+        "rank": 37,
+        "lastAcceptedMinute": 220,
+        "teamId": "E17"
+      },
+      "silver": {
+        "solved": 6,
+        "penaltySeconds": 27600,
+        "penaltyMinutes": 460,
+        "rank": 110,
+        "lastAcceptedMinute": 247,
+        "teamId": "L09"
+      },
+      "bronze": {
+        "solved": 5,
+        "penaltySeconds": 18900,
+        "penaltyMinutes": 315,
+        "rank": 220,
+        "lastAcceptedMinute": 223,
+        "teamId": "E01"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2026invitational-qinhuangdao",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        37,
+        73,
+        110
+      ],
+      "awardUrl": "https://news.neuq.edu.cn/info/1342/36395.htm",
+      "verificationUrl": "https://lus-jlu.github.io/xcpc"
+    },
+    "medalNote": "承办高校转载的赛后报道明确全国邀请赛金、银、铜分别为 37、73、110 队；按邀请赛组终榜顺位核对末位成绩。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2026-ccpc-nanchang-invitational": {
+    "boardUrl": "https://board.xcpcio.com/ccpc/12th/nanchang-invitational",
+    "date": "2026-05-24",
+    "problemCount": 13,
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 41640,
+        "penaltyMinutes": 694,
+        "rank": 31,
+        "lastAcceptedMinute": 218,
+        "teamId": "team146"
+      },
+      "silver": {
+        "solved": 6,
+        "penaltySeconds": 59640,
+        "penaltyMinutes": 994,
+        "rank": 92,
+        "lastAcceptedMinute": 278,
+        "teamId": "team322"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 14820,
+        "penaltyMinutes": 247,
+        "rank": 183,
+        "lastAcceptedMinute": 83,
+        "teamId": "team218"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/ccpc2026invitational-nanchang",
+      "group": "全国邀请赛",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        31,
+        61,
+        91
+      ],
+      "awardUrl": "https://www.ecut.edu.cn/24/da/c2417a140506/page.htm"
+    },
+    "medalNote": "按邀请赛正式队分组，金 31、银 61、铜 91。末位金牌队与东华理工大学公布的成绩一致。"
+  },
+  "2025-icpc-nanchang-invitational": {
+    "medals": {
+      "gold": {
+        "solved": 8,
+        "penaltySeconds": 77340,
+        "penaltyMinutes": 1289,
+        "rank": 40,
+        "lastAcceptedMinute": 273,
+        "teamId": "279"
+      },
+      "silver": {
+        "solved": 6,
+        "penaltySeconds": 31200,
+        "penaltyMinutes": 520,
+        "rank": 120,
+        "lastAcceptedMinute": 161,
+        "teamId": "4"
+      },
+      "bronze": {
+        "solved": 5,
+        "penaltySeconds": 48900,
+        "penaltyMinutes": 815,
+        "rank": 240,
+        "lastAcceptedMinute": 297,
+        "teamId": "275"
+      }
+    },
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025invitational-nanchang",
+      "group": "全国邀请赛",
+      "method": "archived-quota-provisional-cutoff",
+      "counts": [
+        40,
+        80,
+        120
+      ],
+      "awardUrl": "https://www.gcut.edu.cn/2025/0613/c183a196948/page.htm"
+    },
+    "medalNote": "按 RankLand 终榜存档奖额计算，金 40、银 80、铜 120。第 239 名铜奖有校方公开证书交叉核对，三个末位仍待原始获奖名册复核。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-ccpc-zhengzhou": {
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 58440,
+        "penaltyMinutes": 974,
+        "rank": 28,
+        "lastAcceptedMinute": 263,
+        "teamId": "C305"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 53160,
+        "penaltyMinutes": 886,
+        "rank": 83,
+        "lastAcceptedMinute": 269,
+        "teamId": "A202"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 51360,
+        "penaltyMinutes": 856,
+        "rank": 166,
+        "lastAcceptedMinute": 262,
+        "teamId": "A509"
+      }
+    },
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/ccpc/10th/zhengzhou/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/ccpc/10th/zhengzhou/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/ccpc/10th/zhengzhou/run.json",
+      "group": "official",
+      "penaltyRule": "accumulate_in_seconds_and_finally_to_the_minute",
+      "method": "award-roster-final-cutoff",
+      "counts": [
+        28,
+        55,
+        83
+      ],
+      "awardUrl": "https://cpcfinder.com/contest/60",
+      "verificationUrl": "https://www.hgnu.org/p/P2081"
+    },
+    "medalNote": "实际获奖名单为金 28、银 55、铜 83。末位铜牌为正式组第 166 名，4 题、856 分钟；参赛高校 OJ 的铜线记录和原榜截图可交叉核对。",
+    "verifiedAt": "2026-11-06",
+    "statements": [
+      {
+        "language": "英文",
+        "url": "https://codeforces.com/gym/105632/attachments/download/29065/contest-46935-en.pdf",
+        "sourceLabel": "UCup 重赛英文版"
+      }
+    ],
+    "statementPages": [
+      {
+        "language": "中文",
+        "url": "https://cpc.csgrandeur.cn/csgoj/problemset#search=%E7%AC%AC%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%88%E9%83%91%E5%B7%9E%EF%BC%89-%EF%BC%88CCPC2024-Zhengzhou%EF%BC%89",
+        "sourceLabel": "CSGOJ · 全 13 题"
+      },
+      {
+        "language": "中文",
+        "url": "https://vjudge.net/contest/696842",
+        "sourceLabel": "VJudge 镜像 · 全 13 题"
+      }
+    ],
+    "statementNote": "CF 英文 PDF 为 12 月的 UCup 重赛版；中文网页为 NJU 来源题目存档，未注明现场版本。原赛日期为 11 月 17 日。",
+    "qojUrl": "https://qoj.ac/contest/1873"
+  },
+  "2024-ccpc-jinan": {
+    "medals": {
+      "gold": {
+        "solved": 7,
+        "penaltySeconds": 64980,
+        "penaltyMinutes": 1083,
+        "rank": 28,
+        "lastAcceptedMinute": 291,
+        "teamId": "B74"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 39120,
+        "penaltyMinutes": 652,
+        "rank": 84,
+        "lastAcceptedMinute": 236,
+        "teamId": "A54"
+      },
+      "bronze": {
+        "solved": 4,
+        "penaltySeconds": 56100,
+        "penaltyMinutes": 935,
+        "rank": 168,
+        "lastAcceptedMinute": 296,
+        "teamId": "E83"
+      }
+    },
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/ccpc/10th/jinan/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/ccpc/10th/jinan/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/ccpc/10th/jinan/run.json",
+      "group": "official",
+      "penaltyRule": "accumulate_in_seconds_and_finally_to_the_minute",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        28,
+        56,
+        84
+      ],
+      "awardUrl": "https://www.sc.sdu.edu.cn/info/1033/4960.htm",
+      "verificationUrl": "https://cpcfinder.com/contest/55"
+    },
+    "medalNote": "按山东大学公布的实际奖额，金 28、银 56、铜 84。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-ccpc-chongqing": {
+    "medals": {
+      "gold": {
+        "solved": 8,
+        "penaltySeconds": 48180,
+        "penaltyMinutes": 803,
+        "rank": 28,
+        "lastAcceptedMinute": 247,
+        "teamId": "F406"
+      },
+      "silver": {
+        "solved": 6,
+        "penaltySeconds": 16560,
+        "penaltyMinutes": 276,
+        "rank": 84,
+        "lastAcceptedMinute": 99,
+        "teamId": "C103"
+      },
+      "bronze": {
+        "solved": 6,
+        "penaltySeconds": 46020,
+        "penaltyMinutes": 767,
+        "rank": 167,
+        "lastAcceptedMinute": 237,
+        "teamId": "M701"
+      }
+    },
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/ccpc/10th/chongqing/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/ccpc/10th/chongqing/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/ccpc/10th/chongqing/run.json",
+      "group": "official",
+      "penaltyRule": "accumulate_in_seconds_and_finally_to_the_minute",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        28,
+        56,
+        83
+      ],
+      "awardUrl": "https://www.cqu.edu.cn/info/1111/54641.htm",
+      "verificationUrl": "https://cpcfinder.com/contest/58"
+    },
+    "medalNote": "按重庆大学公布的实际奖额，金 28、银 56、铜 83。",
+    "verifiedAt": "2026-11-06"
+  },
+  "2025-ccpc-zhengzhou-invitational": {
+    "medals": {
+      "gold": {
+        "solved": 8,
+        "penaltySeconds": 53460,
+        "penaltyMinutes": 891,
+        "rank": 44,
+        "lastAcceptedMinute": 232,
+        "teamId": "C0909"
+      },
+      "silver": {
+        "solved": 7,
+        "penaltySeconds": 46140,
+        "penaltyMinutes": 769,
+        "rank": 130,
+        "lastAcceptedMinute": 235,
+        "teamId": "A0701"
+      },
+      "bronze": {
+        "solved": 5,
+        "penaltySeconds": 23100,
+        "penaltyMinutes": 385,
+        "rank": 260,
+        "lastAcceptedMinute": 231,
+        "teamId": "C0204"
+      }
+    },
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/ccpc/11th/zhengzhou-invitational/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/ccpc/11th/zhengzhou-invitational/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/ccpc/11th/zhengzhou-invitational/run.json",
+      "group": "全国邀请赛",
+      "penaltyRule": "in_minutes",
+      "method": "award-count-final-cutoff",
+      "counts": [
+        44,
+        86,
+        130
+      ],
+      "awardUrl": "https://www.sohu.com/a/901322299_120347736"
+    },
+    "medalNote": "按赛后报道公布的全国奖额，金 44、银 86、铜 130。"
+  },
+  "2025-icpc-shenyang": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/50th/shenyang/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/50th/shenyang/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/50th/shenyang/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/71"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2025-icpc-nanjing": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/50th/nanjing/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/50th/nanjing/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/50th/nanjing/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/69"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2025-icpc-chengdu": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/50th/chengdu/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/50th/chengdu/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/50th/chengdu/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/67"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-kunming": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/49th/kunming/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/49th/kunming/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/49th/kunming/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/62"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-shenyang": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/49th/shenyang/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/49th/shenyang/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/49th/shenyang/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/61"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-hangzhou": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/49th/hangzhou/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/49th/hangzhou/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/49th/hangzhou/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/57"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-nanjing": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/49th/nanjing/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/49th/nanjing/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/49th/nanjing/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/56"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-chengdu": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/icpc/49th/chengdu/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/icpc/49th/chengdu/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/icpc/49th/chengdu/run.json",
+      "group": "official",
+      "penaltyRule": "in_minutes",
+      "method": "official-quota-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/54"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-ccpc-harbin": {
+    "medalSource": {
+      "configUrl": "https://board.xcpcio.com/data/ccpc/10th/harbin/config.json",
+      "teamsUrl": "https://board.xcpcio.com/data/ccpc/10th/harbin/team.json",
+      "runsUrl": "https://board.xcpcio.com/data/ccpc/10th/harbin/run.json",
+      "group": "official",
+      "penaltyRule": "accumulate_in_seconds_and_finally_to_the_minute",
+      "method": "board-ccpc-preset-final-cutoff",
+      "awardUrl": "https://cpcfinder.com/contest/53"
+    },
+    "verifiedAt": "2026-11-06"
+  },
+  "2024-icpc-xian-invitational": {
+    "id": "2024-icpc-xian-invitational",
+    "year": 2024,
+    "series": "ICPC",
+    "title": "2024 ICPC 全国邀请赛 · 西安",
+    "englishTitle": "第 49 届 ICPC 国际大学生程序设计竞赛邀请赛西安站",
+    "tags": [
+      "邀请赛"
+    ],
+    "date": "2024-05-19",
+    "durationMinutes": 300,
+    "problemCount": 13,
+    "cfUrl": null,
+    "qojUrl": null,
+    "statements": [],
+    "boardUrl": "https://rl.algoux.cn/ranklist/icpc2024invitational-xi_an",
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 51960,
+        "penaltyMinutes": 866,
+        "rank": 39,
+        "lastAcceptedMinute": 275,
+        "teamId": "73"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 60180,
+        "penaltyMinutes": 1003,
+        "rank": 117,
+        "lastAcceptedMinute": 286,
+        "teamId": "159"
+      },
+      "bronze": {
+        "solved": 3,
+        "penaltySeconds": 34020,
+        "penaltyMinutes": 567,
+        "rank": 234,
+        "lastAcceptedMinute": 221,
+        "teamId": "108"
+      }
+    },
+    "sourceUrl": "https://www.cnblogs.com/cjjsb/p/18206681",
+    "verifiedAt": "2026-11-06",
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/icpc2024invitational-xi_an",
+      "group": "全国邀请赛",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        39,
+        78,
+        117
+      ],
+      "awardUrl": "https://english.neu.edu.cn/info/1003/13131.htm"
+    },
+    "vpUrl": "https://www.luogu.com.cn/contest/173404",
+    "vpPlatform": "洛谷",
+    "vpNote": "洛谷官方使用现场原题原数据，部分试题时限按评测机性能调整。原赛纸质题册的独立 PDF 链接仍待补充，可在原题集阅读英文题面。",
+    "onsiteStatements": {
+      "englishCopies": 3,
+      "chineseCopies": 0,
+      "confirmedLanguages": [
+        "英文"
+      ],
+      "sourceKind": "participant-report",
+      "sourceLabel": "参赛者正式赛记录",
+      "sourceUrl": "https://www.cnblogs.com/cjjsb/p/18206681",
+      "note": "记录在热身赛结束、重新进场后的正式赛部分明确写到三份英文题面和未提供中文。",
+      "verifiedAt": "2026-11-06",
+      "relatedSourceLabel": "官方邀请函",
+      "relatedSourceUrl": "https://icpc.pku.edu.cn/docs/20240318122438668015.pdf"
+    }
+  },
+  "2025-icpc-xian": {
+    "id": "2025-icpc-xian",
+    "year": 2025,
+    "series": "ICPC",
+    "title": "2025 ICPC 亚洲区域赛 · 西安",
+    "englishTitle": "The 2025 ICPC Asia Xi'an Regional Contest",
+    "tags": [
+      "区域赛"
+    ],
+    "date": "2025-10-19",
+    "durationMinutes": 300,
+    "problemCount": 13,
+    "cfUrl": null,
+    "qojUrl": "https://qoj.ac/contest/2562",
+    "statements": [
+      {
+        "language": "英文",
+        "url": "https://assets.ucup.ac/statements/statements-4-e1.pdf"
+      }
+    ],
+    "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025xi_an",
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 37800,
+        "penaltyMinutes": 630,
+        "rank": 40,
+        "lastAcceptedMinute": 277,
+        "teamId": "152"
+      },
+      "silver": {
+        "solved": 5,
+        "penaltySeconds": 45960,
+        "penaltyMinutes": 766,
+        "rank": 120,
+        "lastAcceptedMinute": 267,
+        "teamId": "85"
+      },
+      "bronze": {
+        "solved": 3,
+        "penaltySeconds": 9900,
+        "penaltyMinutes": 165,
+        "rank": 240,
+        "lastAcceptedMinute": 96,
+        "teamId": "90"
+      }
+    },
+    "sourceUrl": "https://qoj.ac/contest/2562",
+    "verifiedAt": "2026-11-06",
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025xi_an",
+      "group": "official",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        40,
+        80,
+        120
+      ],
+      "awardUrl": "https://cpcfinder.com/contest/66"
+    },
+    "onsiteStatements": {
+      "englishCopies": null,
+      "chineseCopies": null,
+      "confirmedLanguages": [
+        "英文"
+      ],
+      "sourceKind": "participant-report",
+      "sourceLabel": "参赛高校正式赛报道",
+      "sourceUrl": "https://xkjs.xhu.edu.cn/89/4b/c6095a231755/page.htm",
+      "note": "参赛高校报道确认本队正式赛解答英文题目。每队英文份数及是否另供中文仍待核实。",
+      "verifiedAt": "2026-11-06"
+    }
+  },
+  "2025-icpc-wuhan": {
+    "id": "2025-icpc-wuhan",
+    "year": 2025,
+    "series": "ICPC",
+    "title": "2025 ICPC 亚洲区域赛 · 武汉",
+    "englishTitle": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛武汉站",
+    "tags": [
+      "区域赛"
+    ],
+    "date": "2025-11-02",
+    "durationMinutes": 300,
+    "problemCount": 13,
+    "cfUrl": null,
+    "qojUrl": "https://qoj.ac/contest/2609",
+    "statements": [
+      {
+        "language": "英文",
+        "url": "https://assets.ucup.ac/statements/statements-4-e2.pdf"
+      },
+      {
+        "language": "中文",
+        "url": "https://contest.ucup.ac/download.php?id=2609&r=1&type=attachments"
+      }
+    ],
+    "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025wuhan",
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 49860,
+        "penaltyMinutes": 831,
+        "rank": 45,
+        "lastAcceptedMinute": 292,
+        "teamId": "R23"
+      },
+      "silver": {
+        "solved": 4,
+        "penaltySeconds": 27120,
+        "penaltyMinutes": 452,
+        "rank": 135,
+        "lastAcceptedMinute": 245,
+        "teamId": "D26"
+      },
+      "bronze": {
+        "solved": 3,
+        "penaltySeconds": 18720,
+        "penaltyMinutes": 312,
+        "rank": 271,
+        "lastAcceptedMinute": 209,
+        "teamId": "C09"
+      }
+    },
+    "sourceUrl": "https://qoj.ac/contest/2609",
+    "verifiedAt": "2026-11-06",
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025wuhan",
+      "group": "official",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        45,
+        90,
+        136
+      ],
+      "awardUrl": "https://cpcfinder.com/contest/68"
+    },
+    "onsiteStatements": {
+      "englishCopies": null,
+      "chineseCopies": null,
+      "confirmedLanguages": [
+        "英文"
+      ],
+      "sourceKind": "participant-report",
+      "sourceLabel": "参赛者正式赛记录",
+      "sourceUrl": "https://www.luogu.com.cn/article/zyhngfkc",
+      "note": "记录在 2025 年 11 月 2 日正赛段明确提到拿到英文题面。每队中英文发放份数及中文是否实发仍待核实。",
+      "verifiedAt": "2026-11-06"
+    }
+  },
+  "2025-icpc-shanghai": {
+    "id": "2025-icpc-shanghai",
+    "year": 2025,
+    "series": "ICPC",
+    "title": "2025 ICPC 亚洲区域赛 · 上海",
+    "englishTitle": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛上海站",
+    "tags": [
+      "区域赛"
+    ],
+    "date": "2025-11-23",
+    "durationMinutes": 300,
+    "problemCount": 13,
+    "cfUrl": null,
+    "qojUrl": "https://qoj.ac/contest/2908",
+    "statements": [
+      {
+        "language": "英文",
+        "url": "https://algospark.cwnupaa.com/vp-2025-icpc-shanghai-en.pdf",
+        "sourceLabel": "命题组发布，含赛中更正"
+      }
+    ],
+    "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025shanghai",
+    "medals": {
+      "gold": {
+        "solved": 6,
+        "penaltySeconds": 60540,
+        "penaltyMinutes": 1009,
+        "rank": 30,
+        "lastAcceptedMinute": 258,
+        "teamId": "C64"
+      },
+      "silver": {
+        "solved": 4,
+        "penaltySeconds": 31380,
+        "penaltyMinutes": 523,
+        "rank": 90,
+        "lastAcceptedMinute": 177,
+        "teamId": "A52"
+      },
+      "bronze": {
+        "solved": 2,
+        "penaltySeconds": 16860,
+        "penaltyMinutes": 281,
+        "rank": 180,
+        "lastAcceptedMinute": 148,
+        "teamId": "B14"
+      }
+    },
+    "sourceUrl": "https://www.gitlink.org.cn/thusaa/ICPC2025shanghai",
+    "verifiedAt": "2026-11-06",
+    "medalSource": {
+      "boardUrl": "https://rl.algoux.cn/ranklist/icpc2025shanghai",
+      "group": "official",
+      "method": "archived-medal-final-cutoff",
+      "counts": [
+        30,
+        60,
+        90
+      ],
+      "awardUrl": "https://cpcfinder.com/contest/73"
+    },
+    "onsiteStatements": {
+      "englishCopies": null,
+      "chineseCopies": null,
+      "confirmedLanguages": [
+        "英文"
+      ],
+      "sourceKind": "contest-booklet",
+      "sourceLabel": "命题组题面仓库",
+      "sourceUrl": "https://www.gitlink.org.cn/thusaa/ICPC2025shanghai",
+      "note": "命题组保存英文题册，赛务人员记录正式赛印刷约 1100 份并装入 360 个纸袋。逐队发放语种和份数仍待核实。下方 PDF 为 UCup 重现版。",
+      "verifiedAt": "2026-11-06",
+      "relatedSourceLabel": "命题人员印题记录",
+      "relatedSourceUrl": "https://www.luogu.com.cn/article/qa8l51w5"
+    }
+  }
+}
